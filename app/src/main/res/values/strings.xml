@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcode Generator</string>
+    <string name="defaultAddress">https://www.mobapptuts.com</string>
+    <string name="formHint">Url address to be generated</string>
+</resources>
